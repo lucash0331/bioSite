@@ -19,6 +19,7 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+	text-shadow: 2px 2px cadetblue;
   }
   
   li a:hover:not(.active) {
@@ -50,6 +51,7 @@ ul {
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
     border-bottom: 2px solid cadetblue;
+    
   }
   
 /* End of About page.......*/
@@ -63,6 +65,7 @@ ul {
     padding: 30px;
     font-family: 'Open Sans', sans-serif;
     text-align: justify;
+	background-image: url("Background_pic.JPEG");
     
   }
 /* End of body......... */
@@ -72,6 +75,7 @@ ul {
   /* Hobbies page.......*/
   * {
     box-sizing: border-box;
+    
   }
   
   .row {
@@ -95,6 +99,14 @@ ul {
   /* picture headings....*/
 h1 {
     text-align: center;
+	text-shadow: 2px 2px cadetblue;
+    
 }
 
 /* End of picture headings */
+
+
+
+footer {
+	border-bottom: 5px solid cadetblue;
+}
